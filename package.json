@@ -1,0 +1,23 @@
+{
+  "name": "memghostdatalib",
+  "version": "0.1.0",
+  "description": "Client side storage library for memghost enabled applications",
+  "main": "build/lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robbynshaw/memghostdatalib.git"
+  },
+  "keywords": [
+    "memghost",
+    "storage"
+  ],
+  "author": "Robby N Shaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robbynshaw/memghostdatalib/issues"
+  },
+  "homepage": "https://github.com/robbynshaw/memghostdatalib#readme"
+}
